@@ -17,6 +17,16 @@
 /.next/
 /out/
 
+# AI assistant files
+.claude.md
+AGENTS.md
+CLAUDE.md
+.claude/
+.cursor/
+
+
+
+
 # production
 /build
 
